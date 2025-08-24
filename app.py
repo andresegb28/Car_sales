@@ -1,10 +1,8 @@
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
+
 import streamlit as st
 import pandas as pd
 import plotly.express as px
+import scipy as sp 
 
 # Load your data
 df = pd.read_csv('data/vehicles_us.csv')  
@@ -78,16 +76,11 @@ st.write(px.histogram(df_filtered,
                       color='manufacturer',
                       histnorm=histnorm,
                       barmode='overlay'))
-=======
-=======
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
+
 import streamlit as st
 import pandas as pd
 import plotly.express as px
+import scipy
 
 # Load your data
 df = pd.read_csv('vehicles_us.csv')  
@@ -161,13 +154,4 @@ st.write(px.histogram(df_filtered,
                       color='manufacturer',
                       histnorm=histnorm,
                       barmode='overlay'))
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
+                    
