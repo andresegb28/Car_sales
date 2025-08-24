@@ -1,6 +1,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 import streamlit as st
 import pandas as pd
 import plotly.express as px
@@ -78,6 +79,8 @@ st.write(px.histogram(df_filtered,
                       histnorm=histnorm,
                       barmode='overlay'))
 =======
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
 =======
@@ -160,6 +163,9 @@ st.write(px.histogram(df_filtered,
                       barmode='overlay'))
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
