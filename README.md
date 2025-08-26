@@ -15,17 +15,12 @@ Summary statistics and price distributions
 
 Easy deployment on Render
 
-## Live Demo 
-
-https://car-sales-5.onrender.com
-
-## Installation (Run Locally)
+## Run Locally
 
 ### Clone the repository:
 
 git clone https://github.com/yourusername/Car_sales.git
 cd Car_sales
-
 
 ### Create a virtual environment and activate it:
 
@@ -43,4 +38,6 @@ pip install -r requirements.txt
 
 streamlit run app.py
 
+## Deployment on render
 
+https://car-sales-5.onrender.com
