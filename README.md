@@ -40,4 +40,12 @@ streamlit run app.py
 
 ## Deployment on render
 
+create a render account
+
+add the github repository
+
+give it a name 
+
+### link to the app on render
+
 https://car-sales-5.onrender.com
